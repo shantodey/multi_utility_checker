@@ -115,22 +115,18 @@ multi-utility-checker/
 
 ## 📸 Screenshots
 
+### Main Menu
+![Main Menu](screenshots/main-menu.png)
 
-> 
-> ```markdown
-> ### Main Menu
-> ![Main Menu](screenshots/main-menu.png)
-> 
-> ### Palindrome Checker
-> ![Palindrome Checker](screenshots/palindrome-checker.png)
-> 
-> ### Number Swapper
-> ![Number Swapper](screenshots/number-swapper.png)
-> 
-> ### Odd/Even Checker
-> ![Odd Even Checker](screenshots/odd-even-checker.png)
-> ```
-> 
+### Palindrome Checker
+![Palindrome Checker](screenshots/palindrome-checker.png)
+
+### Number Swapper
+![Number Swapper](screenshots/number-swapper.png)
+
+### Odd/Even Checker
+![Odd Even Checker](screenshots/odd-even-checker.png)
+
 
 
 ## 🤝 Contributing
